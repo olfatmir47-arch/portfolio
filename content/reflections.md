@@ -1,9 +1,5 @@
 +++
 date = '2026-10-30T04:00:23+01:00'
-draft = true
-title = 'Reflections'
-+++
-+++
 title = "Weekly Reflections"
 draft = false
 +++
